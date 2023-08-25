@@ -1,7 +1,7 @@
 ### Olá! sou Isaque Prates seja bem-vindo 👋
 
-- 🔭 Atualmente trabalho em posto de gasolina más estou procurando trabalhar com desenvolvimento web 
-- 🌱 Estou me graduando em análise e desenvolvimento de sistemas e estudando JavaScript
+- 🔭 Atualmente estou focado em aprender mais sobre desenvolvimento back end. 
+- 🌱 Estou me graduando em análise e desenvolvimento de sistemas e estudando JavaScript, nodejs
 - 😄 Pronouns: ele/dele
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-prates-87475b1b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaYlHEsD8Qx6FKrbTEj9MCg%3D%3D)
