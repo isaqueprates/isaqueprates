@@ -1,12 +1,12 @@
 ### Olá! sou Isaque Prates seja bem-vindo 👋
 
 - 🔭 Atualmente estou focado em aprender mais sobre desenvolvimento web. 
-- 👨‍🎓 Formado em (cst) análise e desenvolvimento de sistemas e estudando React, tailwind, nextjs 
+- 👨‍🎓 Formado em CST análise e desenvolvimento de sistemas e estudando React, tailwind, nextjs 
 - 😄 Pronouns: ele/dele
 
   ### Sobre mim
 
- Oi, eu Isaque Prates! Atualmente, sou casado e pai de duas menininhas que iluminam meus dias. Sou um autodidata apaixonado por tecnologia e estou sempre em busca de novos desafios e aprendizados. Para mim, desenvolver sistemas não é apenas um trabalho; é um hobby super divertido! E, claro, se eu puder ganhar uma grana com isso, melhor ainda! 😄
+ Oi, eu Isaque Prates! Sou casado e pai de duas menininhas que iluminam meus dias. Sou um autodidata apaixonado por tecnologia e estou sempre em busca de novos desafios e aprendizados. Para mim, desenvolver sistemas não é apenas um trabalho; é um hobby super divertido! E, claro, se eu puder ganhar uma grana com isso, melhor ainda! 😄
 
 Adoro inventar coisas que resolvem problemas, seja para mim ou para ajudar os outros. É como ser um super-herói da tecnologia! Então, não deixe de conferir meus projetos e me ajudar a aprender. Cada opinião conta, porque, no final das contas, juntos crescemos e podemos fazer coisas incríveis!
 
